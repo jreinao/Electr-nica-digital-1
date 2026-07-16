@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Jul 16 14:38:53 2026
+[*]
+[dumpfile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Pariedad par/pariedad_16_TB.vcd"
+[dumpfile_mtime] "Thu Jul 16 14:38:17 2026"
+[dumpfile_size] 2741
+[savefile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Pariedad par/pariedad_16.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pariedad_16_TB.
+[sst_width] 297
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+pariedad_16_TB.uut.A[15:0]
+pariedad_16_TB.uut.B[15:0]
+pariedad_16_TB.uut.LSB[15:0]
+pariedad_16_TB.uut.N[15:0]
+@28
+pariedad_16_TB.uut.clk
+pariedad_16_TB.uut.done
+pariedad_16_TB.uut.es_impar
+pariedad_16_TB.uut.es_par
+pariedad_16_TB.uut.init
+pariedad_16_TB.uut.rst
+pariedad_16_TB.uut.w_rst
+pariedad_16_TB.uut.w_sh_l
+pariedad_16_TB.uut.w_sh_r
+pariedad_16_TB.uut.w_sub
+pariedad_16_TB.uut.z
+[pattern_trace] 1
+[pattern_trace] 0
