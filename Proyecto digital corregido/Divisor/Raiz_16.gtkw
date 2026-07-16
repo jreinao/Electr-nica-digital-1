@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Jul 16 14:37:59 2026
+[*]
+[dumpfile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Divisor/div_16_TB.vcd"
+[dumpfile_mtime] "Thu Jul 16 14:37:20 2026"
+[dumpfile_size] 9851
+[savefile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Divisor/Raiz_16.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] div_16_TB.
+[sst_width] 297
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+div_16_TB.uut.Cos[15:0]
+div_16_TB.uut.N_out[15:0]
+@28
+div_16_TB.uut.clk
+div_16_TB.uut.done
+@22
+div_16_TB.uut.in_D[15:0]
+div_16_TB.uut.in_N[15:0]
+@28
+div_16_TB.uut.init
+div_16_TB.uut.rst
+@22
+div_16_TB.uut.w_Cont[31:0]
+div_16_TB.uut.w_N[31:0]
+div_16_TB.uut.w_TD[31:0]
+@28
+div_16_TB.uut.w_add
+div_16_TB.uut.w_load_rsr
+div_16_TB.uut.w_rst
+div_16_TB.uut.w_sh_l
+div_16_TB.uut.w_sh_r
+div_16_TB.uut.x
+div_16_TB.uut.y
+div_16_TB.uut.z
+@22
+div_16_TB.uut.z_Cont[31:0]
+div_16_TB.uut.z_TD[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
