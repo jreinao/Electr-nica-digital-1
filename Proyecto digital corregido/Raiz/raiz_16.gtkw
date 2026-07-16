@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Jul 16 14:35:48 2026
+[*]
+[dumpfile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Raiz/raiz_16_TB.vcd"
+[dumpfile_mtime] "Thu Jul 16 14:33:51 2026"
+[dumpfile_size] 7088
+[savefile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Raiz/raiz_16.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] raiz_16_TB.
+[sst_width] 297
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+raiz_16_TB.uut.N_out[15:0]
+raiz_16_TB.uut.Q[15:0]
+raiz_16_TB.uut.Q_out[15:0]
+raiz_16_TB.uut.Temp[15:0]
+@28
+raiz_16_TB.uut.clk
+raiz_16_TB.uut.done
+@22
+raiz_16_TB.uut.in_N[15:0]
+@28
+raiz_16_TB.uut.init
+raiz_16_TB.uut.rst
+@22
+raiz_16_TB.uut.w_N[15:0]
+@28
+raiz_16_TB.uut.w_add
+raiz_16_TB.uut.w_load_q
+raiz_16_TB.uut.w_rst
+raiz_16_TB.uut.w_sh_r2
+raiz_16_TB.uut.w_sub_n
+raiz_16_TB.uut.x
+raiz_16_TB.uut.y
+@22
+raiz_16_TB.uut.z_Cont[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
