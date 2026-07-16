@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Jul 16 14:43:11 2026
+[*]
+[dumpfile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Decimal a binario/bcd_to_bin_16_TB.vcd"
+[dumpfile_mtime] "Thu Jul 16 14:42:33 2026"
+[dumpfile_size] 5419
+[savefile] "/home/juan/Escritorio/Proyectos_Verilog/digital_UN/basic_circuits/test_peripherals/rtl/cores/test_1/Decimal a binario/bcd_to_bin.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bcd_to_bin_16_TB.
+[sst_width] 297
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+bcd_to_bin_16_TB.uut.A[15:0]
+bcd_to_bin_16_TB.uut.BIN_out[15:0]
+@28
+bcd_to_bin_16_TB.uut.clk
+bcd_to_bin_16_TB.uut.done
+bcd_to_bin_16_TB.uut.init
+bcd_to_bin_16_TB.uut.rst
+@22
+bcd_to_bin_16_TB.uut.w_BCD_adjusted[15:0]
+bcd_to_bin_16_TB.uut.w_BCD_part[15:0]
+bcd_to_bin_16_TB.uut.w_combined[31:0]
+@28
+bcd_to_bin_16_TB.uut.w_rst
+bcd_to_bin_16_TB.uut.w_sh_r
+bcd_to_bin_16_TB.uut.w_sub
+@22
+bcd_to_bin_16_TB.uut.w_val[4:0]
+@28
+bcd_to_bin_16_TB.uut.z
+[pattern_trace] 1
+[pattern_trace] 0
